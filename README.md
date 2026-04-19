@@ -11,6 +11,14 @@
 
 ---
 
+![MLflow](https://img.shields.io/badge/MLflow-Tracking-0194E2)
+![DVC](https://img.shields.io/badge/DVC-Data%20Versioning-13ADC7)
+![Docker](https://img.shields.io/badge/Docker-Compose-2496ED)
+![FastAPI](https://img.shields.io/badge/FastAPI-API-009688)
+![Pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen)
+
+---
+
 ## 📋 Project Overview
 
 This repository demonstrates a complete **MLOps pipeline** for classifying customer support tickets (e.g., billing, technical, refund, account issues).
