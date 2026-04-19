@@ -16,6 +16,8 @@
 ![Docker](https://img.shields.io/badge/Docker-Compose-2496ED)
 ![FastAPI](https://img.shields.io/badge/FastAPI-API-009688)
 ![Pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen)
+![Makefile](https://img.shields.io/badge/Makefile-enabled-brightgreen)
+![Poetry](https://img.shields.io/badge/Poetry-enabled-brightgreen)
 
 ---
 
@@ -138,6 +140,15 @@ mlops-ticket-classifier/
 ---
 
 ## Quick Start (Local)
+### Using Makefile
+```
+make setup → installe all
+make format → format code
+make train → traîn model
+make api → launches the API in dev
+make up → launch everything with Docker
+```
+
 ### 1. Clone the repository
 ```
 git clone https://github.com/0xrubusdata/mlops-ticket-classifier.git
